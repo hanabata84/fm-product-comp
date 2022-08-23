@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fm-product-comp/static/css/main.5b32c3d3.css",
+    "main.js": "/fm-product-comp/static/js/main.51741a68.js",
+    "static/media/perfume-img.jpg": "/fm-product-comp/static/media/perfume-img.990953c969519feb96b2.jpg",
+    "index.html": "/fm-product-comp/index.html",
+    "main.5b32c3d3.css.map": "/fm-product-comp/static/css/main.5b32c3d3.css.map",
+    "main.51741a68.js.map": "/fm-product-comp/static/js/main.51741a68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b32c3d3.css",
+    "static/js/main.51741a68.js"
+  ]
+}
